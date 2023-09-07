@@ -1,0 +1,43 @@
+.App {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.minus{
+    cursor: pointer;
+    width: 50px;
+    border-radius: 20%; 
+    font-size: 30px;
+    background-color: red;
+}
+
+.plus{
+    cursor: pointer;
+    width: 50px;
+border-radius: 20%;    
+    font-size: 30px;
+    background-color: rgb(119, 186, 18);
+}
+
+h1{
+    padding: 0;
+    margin: 0;
+    font-size: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h2{
+    color: rgb(65, 66, 66);
+}
+
+.sbros {
+    cursor: pointer;
+    width: 100px;
+border-radius: 5%;    
+    font-size: 30px;
+    background-color: rgb(150, 151, 149);
+}
+
